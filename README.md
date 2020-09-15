@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Repo for Coursera Capstone Data Science Certification
+# Capstone Project
+Repo for Capstone Data Science Project
