@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repo for Coursera Capstone as part of IBM Data Science Certification
+Repo for Coursera Capstone Data Science Certification
